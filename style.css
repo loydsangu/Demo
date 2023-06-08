@@ -1,0 +1,38 @@
+body 
+{
+  background-size: 1300px;
+  background-repect: recpet;
+  backgrround-attachment: fixed; 
+  
+}
+header{
+    background-image:url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    font-family: helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    
+    
+}
+
+p
+{
+  font-family: helvetica;
+  font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    font-size: 40px;   
+}
+
+.p-frames{
+  background-color: lightcoral;  
+}
+
+.p{
+  background-color: skyblue;  
+}
+
+
+
